@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+  max-width: 800px;
+  margin: auto;
+  }
+
+  .container {
+      display: flex;
+  }
+.submitForm {
+  max-width: 800px;
+  margin: auto;
+  max-width: 600px;
+}
